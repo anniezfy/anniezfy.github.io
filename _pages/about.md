@@ -44,7 +44,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09. 2nd Prize, Physics Academic Competition of Anhui Province*. 
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Chongqing Univerisity, Master of Science, Computer Science. 
