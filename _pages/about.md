@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/c7c9527d-81d9-421a-b4ee-2638494f921e)---
 permalink: /
 title: ""
 excerpt: ""
@@ -43,8 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2020.09. 2nd Prize, Physics Academic Competition of Anhui Province*. 
+- *2022,2023.09. Class A Scholarship, Chongqing University*
+- *2022.10. Outstanding Graduate, Hefei University of Technology* 
+- *2020.09. 2nd Prize, Physics Academic Competition of Anhui Province*
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Chongqing Univerisity, Master of Science, Computer Science. 
