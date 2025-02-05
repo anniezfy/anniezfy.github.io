@@ -28,7 +28,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPA 2024</div><img src='images/top_level.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISPA 2024</div><img src='images/top_level.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adaptive Hybrid FFT: A Novel Pipeline and Memory-Based Architecture for Radix-$2^{k}$ FFT in Large Size Processing](https://arxiv.org/pdf/2501.01259)
@@ -36,9 +36,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 # 🎖 Honors and Awards
