@@ -21,10 +21,7 @@ My research currently focuses on designing Fast Fourier Transform (FFT) processo
 I have published 2 patents and 1 conference paper related to the FFT research field.
 
 
-I am deeply passionate about cutting-edge technology 
-and highly self-motivated to challenge myself when facing serious obstacles. 
-Moreover, I like to share technology via open-source and write blogs related to 
-engineering techniques. 
+I am passionate about cutting-edge technology and highly self-motivated to push my limits when facing significant challenges. Moreover, I enjoy sharing knowledge through open-source contributions and writing blogs on engineering techniques.
 
 
 # 🔥 News
