@@ -33,8 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Adaptive Hybrid FFT: A Novel Pipeline and Memory-Based Architecture for Radix-$2^{k}$ FFT in Large Size Processing](https://arxiv.org/pdf/2501.01259)
 **Fangyu Zhao**, Chunhua Xiao, Zhiguo Wang, Xiaohua Du,Bo Dong
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+</div>
+</div>
 
 
 
