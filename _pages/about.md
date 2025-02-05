@@ -17,15 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research currently focuses on designing Fast Fourier Transform (FFT) processors on FPGA using Chisel and Verilog. The goal is to develop a flexible architecture adapted to various parameters such as parallelism, radix, and point.
-I have published 2 patents and 1 conference paper related to the FFT research field.
+My research focuses on designing Fast Fourier Transform (FFT) processors on FPGA using Chisel and Verilog. The goal is to develop a flexible architecture adaptable to various parameters, such as parallelism, radix, and point size. Besides, I have published two patents and one conference paper related to FFT processor design.
 
-
-I am passionate about cutting-edge technology and highly self-motivated to push my limits when facing significant challenges. Moreover, I enjoy sharing knowledge through open-source contributions and writing blogs on engineering techniques.
-
+I am passionate about cutting-edge technology and highly self-motivated to push my limits when facing significant challenges. Moreover, I  enjoy sharing knowledge through open-source contributions and writing blogs on engineering techniques recording the solutions to complicated problems.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: I released the [source code](https://github.com/anniezfy/FFT_MDC_Pipeline) related to the 512K-point FFT MDC pipeline architecture.
 
 # 📝 Publications 
 
